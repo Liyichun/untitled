@@ -45,6 +45,8 @@ logs/
 # Build results
 [Dd]ebug/
 [Rr]elease/
+out/production/
+
 *_i.c
 *_p.c
 *.ilk
